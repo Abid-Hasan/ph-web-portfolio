@@ -94,20 +94,20 @@ h2 {
 }
 
 #welcome-section {
-  background-image: url("/images/top-banner.png");
+  background-image: url("../images/top-banner.png");
   background-repeat: no-repeat;
   margin-bottom: 2rem;
 }
 
 #about-section {
-  background-image: url("/images/dream-bg.png");
+  background-image: url("../images/dream-bg.png");
   background-repeat: no-repeat;
   background-position: right;
   margin-bottom: 2rem;
 }
 
 #experience-section {
-  background-image: url("/images/exp-bg.png");
+  background-image: url("../images/exp-bg.png");
   background-repeat: no-repeat;
   background-position: left;
   margin-bottom: 2rem;
